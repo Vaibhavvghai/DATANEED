@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+artifacts/*.csv
+artifacts/*.joblib
+artifacts/*_checkpoint.csv
+artifacts/*_learning_curves.csv
+artifacts/*_meta_dataset.csv
+artifacts/*_evaluation.csv
+artifacts/*_method_comparison.csv
+!artifacts/.gitkeep
+
